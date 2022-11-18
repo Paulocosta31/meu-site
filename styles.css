@@ -1,0 +1,165 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+
+
+
+
+.ios {
+    width: 150px;
+    justify-content: center;
+
+
+}
+
+
+.img-celular {
+    width: 450px;
+    justify-content: center;
+}
+
+.imagem-celular {
+    height: 520px;
+    position: absolute;
+    left: 153px;
+    top: 26px;
+    transition: opacity 2s ease-in-out;
+
+
+}
+.conteiner-imagem {
+    position: relative;
+
+}
+body {
+    background: #fafafa;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.inst-logo {
+    margin-bottom: 20px;
+    width: 300px;
+    padding-right: 50px;
+    padding-left: 20px;
+}
+
+.contener-itens {
+    width: 350px;
+
+}
+
+.formulario {
+
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #dbdbdb;
+    background: #ffff;
+    padding: 40px;
+    padding-top: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 5px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+
+
+
+}
+
+.entra-facebook {
+    text-align: center;
+    font-weight: bold;
+    color: #385185;
+    line-height: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.esqueceu-senha {
+    text-align: center;
+    font-size: small;
+    line-height: 50px;
+    color: #385185;
+    cursor: pointer;
+    font-size: 12px
+}
+
+.formulario2 {
+    padding: 9px 0px 7px 8px;
+    border-radius: 5px;
+    border-bottom: 5px;
+    border-width: 1px;
+    margin-bottom: 9px;
+    border: 1px solid;
+}
+
+.senha1 {
+    padding: 9px 0px 7px 8px;
+    border-radius: 5px;
+    border-width: 1px;
+    margin-bottom: 8px;
+}
+
+.entrar {
+    border-radius: 5px;
+    padding: 9px 0px 7px 8px;
+    background: rgb(104, 190, 240);
+    border-width: 1px;
+
+}
+
+.link-cadastro {
+    color: #0095f6;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.container-cadastro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    border: 1px solid #dbdbdb;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.link-cadastro {
+    color: #0095f6;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 5px;
+    cursor: pointer;
+
+}
+
+.paragrafo-conta {
+    font-size: 14px;
+
+}
+
+.paragrafo-app {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.conteiner-app {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+}
+
+.logo-inst {
+    width: 150px;
+    justify-content: center;
